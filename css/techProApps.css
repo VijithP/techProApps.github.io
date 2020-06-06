@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: rdctfont;
-    src: url('/fonts/coolveticarg.ttf');
+    src: url('./fonts/coolveticarg.ttf');
   }
   
   body {
