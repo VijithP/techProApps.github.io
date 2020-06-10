@@ -131,7 +131,7 @@
 
 #DivIdAppDetails
 {
-    background-image: url('/img/BackGroundImg.jpg');
+    background-image: url('./img/BackGroundImg.jpg');
     /* background-image: url('/img/bkImg.jpg'); */
 
     height: 80%;
