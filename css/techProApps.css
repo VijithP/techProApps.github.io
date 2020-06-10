@@ -1,7 +1,8 @@
 
 @font-face {
     font-family: rdctfont;
-    src: url('./../fonts/coolveticarg.ttf');
+    /* src: url('./../fonts/coolveticarg.ttf'); */
+    src: url('../../techProApps.github.io/fonts/coolveticarg.ttf');
     
   }
   
