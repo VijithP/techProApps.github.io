@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: rdctfont;
-    src: url('./fonts/coolveticarg.ttf');
+    src: url('./../fonts/coolveticarg.ttf');
     
   }
   
@@ -131,8 +131,9 @@
 
 #DivIdAppDetails
 {
-    background-image: url('./img/BackGroundImg.jpg');
+    /* background-image: url('../img/BackGroundImg.jpg'); */
     /* background-image: url('/img/bkImg.jpg'); */
+    background-image: url('./../img/BackGroundImg.jpg');
 
     height: 80%;
 
